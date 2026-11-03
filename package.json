@@ -1,14 +1,1 @@
-{
-  "name": "santo-sabor-completo",
-  "version": "1.0.0",
-  "description": "Cardápio digital completo da Santo Sabor",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "engines": {
-    "node": ">=18"
-  },
-  "license": "MIT"
-}
-
+{"description":"Cardápio digital completo da Santo Sabor: pedidos com envio automático para o Telegram, pagamento PIX ou dinheiro com troco, entrega por motoboy ou retirada.","engines":{"node":">=18"},"license":"MIT","main":"server.js","name":"santo-sabor-completo","scripts":{"start":"node server.js"},"type":"commonjs","version":"1.0.0"}
